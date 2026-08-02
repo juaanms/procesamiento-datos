@@ -7,7 +7,7 @@
 - **Correo:** mortigo.juan@javeriana.edu.co
 
 ## Contenido del Repositorio
-- **[Taller 00: Introducción a Python](./taller-python-basico/)** - Taller básico de Python
+- **[Taller: Introducción a Python](./taller-python-basico/)** - Taller básico de Python
 - **[Proyecto](./proyecto/)** - Proyecto del curso
 - **[Ejercicios](./ejercicios/)** - Ejercicios de clase
 
